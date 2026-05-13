@@ -1,0 +1,14 @@
+# Editor / IDE
+.idea/
+.vscode/
+*.swo
+*.swp
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log

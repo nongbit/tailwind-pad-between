@@ -1,0 +1,16 @@
+{
+  "name": "@nongbit/tailwind-pad-between",
+  "version": "1.0.0",
+  "description": "Tailwind CSS plugin that adds padding between child elements (like space-between but with padding instead of margin).",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nongbit/tailwind-room-between.git"
+  },
+  "keywords": ["tailwindcss", "plugin", "padding", "between", "space", "room"],
+  "author": "Nongbit",
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  }
+}
